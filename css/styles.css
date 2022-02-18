@@ -8,3 +8,14 @@
     color: white;
     height: 100%;
 }
+
+.divWidget{
+    margin-right: 0;
+    height: 92px;
+}
+
+.fa-comment-dots:hover{
+    color: #243A61;
+    transform: rotate(15deg);
+}
+
